@@ -1,5 +1,5 @@
-## Dokumentacija
+# Dokumentacija
 
 ## Sadržaj
 - [Komponente](komponente/)
-  -[NEMA 17 Stepper Motor](nema-17-stepper/)
+  - [NEMA 17 Stepper Motor](komponente/nema-17-stepper.md)
