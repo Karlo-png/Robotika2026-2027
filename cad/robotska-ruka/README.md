@@ -2,6 +2,6 @@
 
 ## Sadržaj
 
-- [Ruka 1](robotska-ruka/RUKA 1.stl/)
+- [Ruka 1](/)
 - [Ruka 2](/)
 - [Stalak](/)
