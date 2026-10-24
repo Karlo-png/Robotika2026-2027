@@ -1,6 +1,6 @@
 # Robotska ruka
 
-![Robotska ruka](slika.png)
+![Robotska ruka](datoteke/robotska-ruka.png)
 
 ## Sadržaj
 
