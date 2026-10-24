@@ -2,4 +2,4 @@
 
 ## Sadržaj
 
-- [Robotska ruka](cad/robotska-ruka/)
+- [Robotska ruka](robotska-ruka/)
