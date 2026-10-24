@@ -1,5 +1,7 @@
 # Robotska ruka
 
+![Robotska ruka](slika.png)
+
 ## Sadržaj
 
 - [Ruka 1](RUKA%201.stl)
