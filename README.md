@@ -1,2 +1,2 @@
-# Robotika2026-2027
+# Robotika
 Robotika SŠ Zlatar 2026/2027
